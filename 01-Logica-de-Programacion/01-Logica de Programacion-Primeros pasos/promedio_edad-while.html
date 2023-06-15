@@ -1,0 +1,36 @@
+<meta charset="utf-8">
+
+<h1> PROGRAMA PARA CALCULAR PROMEDIO DE EDADES CON WHILE</h1>
+
+<script>
+
+	function saltarLinea(){
+		document.write("<br>");
+		document.write("<br>");
+		document.write("<br>");
+	}
+
+	function imprimir( frase){ //ahora uso la funcion imprimir en cabio e document.write
+
+		document.write(frase);
+		saltarLinea();
+	}
+
+
+	var numeroMiembros = prompt("Ingrese la cantidad de miembros ")
+	var contador = 1;
+	var sumaEdades= 0;
+
+	while(contador <= numeroMiembros){
+
+		edad = parseInt(prompt("Ingrese la edad del familiar"));
+		contador = contador +1;
+		sumaEdades = sumaEdades + edad;
+
+	}	
+
+	var promedio = sumaEdades/ numeroMiembros;
+	imprimir("El promedo de las edades es " + promedio);
+
+
+</script>

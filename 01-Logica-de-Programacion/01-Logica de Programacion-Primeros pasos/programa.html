@@ -1,0 +1,96 @@
+<meta charset="utf-8">
+
+
+
+<script>
+	
+	document.write("la edad de cristian es...<br>");
+	document.write("<br>");
+	document.write("25");
+	document.write("<br>");
+	document.write(25);
+	document.write("<br>");
+	document.write(100/4);
+	document.write("<br>");
+	document.write("25"+ 15);
+	document.write("<br>");
+
+	document.write("El año de nacimiento de cristian es...");
+	document.write("<br>");
+	document.write(2020-29);
+	document.write("<br>");
+	document.write("El promedio de edad de juan pedro y carlos es...");
+	document.write("<br>");
+	document.write((20+25+15)/3);
+	document.write("<br>");
+	document.write("La suma de las edades de juan pedro y carlos es..." + 20+25+15); //concatena
+	document.write("<br>");
+	document.write("La suma de las edades de juan pedro y carlos es..." + (20+25+15));
+	document.write("<br>");
+	document.write("<br>");
+
+	//variables
+	var anho = 2030;
+	document.write("juan tiene " + (anho- 2000) + " anios");
+	document.write("<br>");
+	document.write("<br>");
+	document.write("pedro tiene " + (anho- 1995) + " anios");
+	document.write("<br>");
+	document.write("<br>");
+	document.write("Carlos tiene " + (anho- 2005) + " anios");
+	document.write("<br>");
+	document.write("<br>");
+	document.write("<br>");
+	document.write("<br>");
+
+	anho = 2020;
+	document.write("Jimena tiene " + (anho- 2010) + " anios");
+	document.write("<br>");
+	document.write("<br>");
+	document.write("Paola tiene " + (anho- 1995) + " anios");
+	document.write("<br>");
+	document.write("<br>");
+	document.write("Laura tiene " + (anho- 2005) + " anios");
+	document.write("<br>");
+	document.write("<br>");
+	
+	var edadJimena=10;
+	var edadPaola= 25;
+	var edadLaura= 15; 
+	var nombre1= "Jimena" ;
+	var nombre2= "Paola";
+	var nombre3= "Laura";
+	var promedio= (edadJimena+edadPaola+edadLaura)/3;
+	document.write("El promedio de las edades de " + nombre1 + " , " + nombre2 + " , " + nombre3 +" es: " + Math.round(promedio) + " años");
+	document.write("<br>");
+
+	//saltos de linea 
+	function saltarLinea(){
+		document.write("<br>");
+	}
+
+	function imprimir( frase){ //ahora uso la funcion imprimir en cabio e document.write
+
+		document.write(frase);
+		saltarLinea();
+	}
+
+	var saltoDeLinea = "<br><br><br><br>";
+	document.write(saltoDeLinea);
+
+	document.write("hola");
+
+	saltarLinea();
+	saltarLinea();
+
+	document.write("hola2");
+	document.write("<br>");
+
+	imprimir("Hola amigos");
+
+
+
+
+
+
+</script>
