@@ -1,0 +1,15 @@
+Aula 1
+Lo que aprendimos en esta aula:
+En esta lección, aprendiste:
+Las desventajas de usar JDBC para acceder a bases de datos en Java;
+La historia de la creación de Hibernate y JPA;
+Cómo crear una aplicación Maven y agregar Hibernate como dependencia.
+
+Aula 2
+Lo que aprendimos en esta aula:
+En esta lección, aprendiste:
+Cómo configurar JPA a través del archivo de persistencia.xml;
+Cómo mapear entidades JPA;
+Cómo utilizar EntityManager para conservar entidades en la base de datos.
+
+Aula 3

@@ -1,0 +1,13 @@
+AULA 1
+Lo que aprendimos en esta aula:
+
+A recuperar el ambiente;
+Un poco sobre la historia de SQL;
+Un poco sobre la historia de MYSQL.
+
+AULA 2
+La importancia de conocer la base de datos antes de realizar las consultas;
+El comando de consultas y cómo podemos crear filtros;
+A mezclar filtros condicionales con AND y OR;
+A utilizar >, >=, <, <=, = ou <> en los filtros que implican valores;
+El funcionamiento del comando LIKE.
