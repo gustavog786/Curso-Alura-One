@@ -11,3 +11,31 @@ El comando de consultas y cómo podemos crear filtros;
 A mezclar filtros condicionales con AND y OR;
 A utilizar >, >=, <, <=, = ou <> en los filtros que implican valores;
 El funcionamiento del comando LIKE.
+
+AULA 3
+Lo que aprendimos en esta aula:
+
+A presentar solamente filas distintas en una selección;
+A ordenar la salida de la selección;
+A agrupar los registros por un conjunto de campos y aplicando un criterio de agrupamiento sobre los campos numéricos (SUM, MIN, MAX, AVG, etc);
+A utilizar el comando HAVING para aplicar un filtro utilizando los campos numéricos agrupados como condición;
+A limitar la salida de las consultas;
+A usar el comando CASE para clasificar un determinado campo por un criterio.
+
+AULA 4
+Lo que aprendimos en esta aula:
+
+A conectar dos o más tablas a través de comandos de JOIN;
+Los tipos de JOIN existentes y cuáles son soportados por MySQL;
+Los comandos UNION y UNION ALL, para unir dos o más selecciones siempre y cuando tengan los mismos campos seleccionados;
+A utilizar una consulta como criterio de filtro de otra consulta;
+A utilizar una consulta dentro de otra consulta;
+A Crear y utilizar vistas (Views).
+
+AULA 5
+Lo que aprendimos en esta aula:
+
+Algunas funciones de tipo STRING para texto;
+Funciones matemáticas;
+Funciones de tipo DATE para fechas;
+Abordamos funciones de conversión
