@@ -1,0 +1,37 @@
+AULA 1
+Lo que aprendimos en esta aula:
+
+Como modelar una base de datos basados en el negocio de la empresa;
+Revisamos todas las entidades involucradas en una base de datos;
+Aprendimos los tipos de datos que componen una tabla.
+
+AULA 2
+Lo que aprendimos en esta aula:
+
+Aprendimos a crear una base de datos;
+Aprendimos a crear una tabla;
+La posibilidad de crear las tablas por un asistente;
+Vimos cómo crear las relaciones entre las tablas;
+Vimos que el nombre de la tabla también puede ser modificado tras su creación.
+
+AULA 3
+Lo que aprendimos en esta aula:
+
+Aprendimos a incluir datos en una tabla, a través de comandos;
+Vimos la inclusión de varios registros en un único comando;
+Fue mostrado cómo incluir datos en la tabla a través de un asistente;
+Mostramos cómo incluir datos usando un archivo externo.
+
+AULA 4
+Lo que aprendimos en esta aula:
+
+A alterar y a excluir datos de una tabla, a través de comando o en lotes;
+Vimos que podemos alterar o excluir todos los datos de una tabla;
+Lo que es una transacción y como podemos deshacer modificaciones efectuadas anteriormente en la base de datos.
+
+AULA 5
+Lo que aprendimos en esta aula:
+
+Vimos cómo funcionan los campos de autoincremento;
+Aprendimos a determinar valores por defecto para los campos;
+Fue mostrado cómo trabajar con TRIGGERs para ejecutar comandos al momento de la inclusión, modificación y exclusión de registros.
