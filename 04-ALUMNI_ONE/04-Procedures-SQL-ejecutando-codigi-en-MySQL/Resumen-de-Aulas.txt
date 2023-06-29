@@ -1,0 +1,40 @@
+AULA 1
+Lo que aprendimos en esta aula:
+
+A instalar MySQL;
+A recuperar la base de datos para ser utilizada en este entrenamiento.
+
+AULA 2
+Lo que aprendimos en esta aula:
+
+A crear un Stored Procedure (SP) que devuelve un texto;
+Cómo un SP devuelve un valor en su salida;
+A utilizar funciones de MySQL y realizar comentarios al interior del SP;
+Cómo alterar un SP existente;
+Cómo excluir un SP
+
+AULA 3
+Lo que aprendimos en esta aula:
+
+Cómo manipular comandos SQL dentro del SP;
+Cómo ingresar parámetros para un SP;
+Cómo tratar los errores;
+La atribución de variables a través de un comando SELECT.
+
+AULA 4
+Lo que aprendimos en esta aula:
+
+El control de flujo IF-THEN-ELSE;
+Una variante del comando anterior llamada IF-THEN-ELSEIF;
+La estructura CASE;
+Cómo tratar los errores del comando CASE cuando no todas las opciones son contempladas en el mismo;
+A utilizar el CASE condicional, semejante al IF-THEN-ELSEIF;
+El uso de Loops para repetir un conjunto de comandos hasta que una condición sea satisfecha.
+
+AULA 5
+Lo que aprendimos en esta aula:
+
+A conocer la estructura de CURSOR que permite atribuir valores resultantes de un SELECT con múltiples líneas;
+Vimos que podemos atribuir al CURSOR más de una columna;
+A usar el CURSOR en conjunto con un ciclo de lazo (Loop);
+Cómo crear y utilizar una función

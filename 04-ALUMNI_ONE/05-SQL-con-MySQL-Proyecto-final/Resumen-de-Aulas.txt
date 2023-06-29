@@ -1,0 +1,38 @@
+AULA 1
+Lo que aprendimos en esta aula:
+
+A crear de una base de datos.
+A crear tablas a través de líneas de script y del asistente de Workbench.
+A insertar registros en las tablas mediante líneas de comando y realizando la importación desde otra base de datos.
+A importar datos a través de una carpeta dump.
+A crear claves primarias y claves foráneas.
+A generar un diagrama Entidad-Relación.
+A realizar consultas a la base de datos.
+A realizar consultas en diversas entidades.
+
+AULA 2
+Lo que aprendimos en esta aula:
+
+A trabajar con la función RAND() de MySQL.
+A generar números aleatorios empleando la función RAND().
+A crear una función para obtener un número entero de forma aleatoria.
+
+AULA 3
+Lo que aprendimos en esta aula:
+
+A crear una función para obtener un registro de una tabla de forma aleatoria.
+A trabajar con el comando LIMIT para seleccionar un registro en específico.
+
+AULA 4
+Lo que aprendimos en esta aula:
+
+A crear un Stored Procedure para generar una venta.
+A utilizar ciclos iterativos con el comando WHILE.
+A solucionar problemas con la Clave primaria.
+
+AULA 5
+Lo que aprendimos en esta aula:
+
+A realizar consultas y almacenarlas en tablas auxiliares.
+A trabajar con TRIGGERS.
+A mejorar los TRIGGERS empleando Stored Procedures.
